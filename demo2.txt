@@ -1,2 +1,3 @@
-my second demo txt file
-  checking status
+Base branch to commit to main
+looking for conflict
+2nd branch
